@@ -18,4 +18,4 @@ npm run build
 npm run build --report
 ```
 
-O app deve rodadando em localhost:8080
+O app deve estar rodadando em localhost:8080
