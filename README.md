@@ -1,6 +1,6 @@
-# user-github
+# github-user
 
-> Um projeto Vue app para buscar usuários no Github.
+> Uma aplicação em Vue.js para buscar usuários no GitHub
 
 ## Build Setup
 
