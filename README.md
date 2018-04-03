@@ -1,6 +1,6 @@
 # github-user
 
-> Uma aplicação em Vue.js para buscar usuários no GitHub
+> Uma aplicação em Vue.js para buscar usuários no GitHub utilizando Bootstrap
 
 ## Build Setup
 
